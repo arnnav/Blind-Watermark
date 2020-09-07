@@ -1,4 +1,4 @@
-# Blind-Watermark (2017)
+# Blind-Watermark (October 2017)
 Watermark added to the frequency domain by Fourier transform.
 
 References:
